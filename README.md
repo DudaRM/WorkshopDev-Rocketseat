@@ -12,9 +12,9 @@
 
 ## <a id="recursos"></a> Recursos
 
-✅ Você pode conhecer o projeto Casa Criativa, vendo o que outras pessoas já fizeram.<br>
+✅ Você pode conhecer o projeto Casa Criativa, que lhe permite ver o que outras pessoas já fizeram.<br>
 
-✅ Irá poder cadastrar suas ideias para e visualizar o que outras pessoas estão fazendo.<br>
+✅ Pode cadastrar suas ideias e visualizar o que outras pessoas estão fazendo.<br>
 
 ## <a id="instalacao"></a>  Instalação
 
