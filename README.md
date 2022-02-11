@@ -2,7 +2,6 @@
 <blockquote align="center"> Uma semana prática com muito código, desafios e networking desenvolvido pela RocketSeat.</blockquote>
 </p>
 
-
 ## Guia de conteúdo
 
 <li><a href="#recursos">Recursos</a></li><br>
